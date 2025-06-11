@@ -1,0 +1,16 @@
+{
+  "intents": [
+    {
+      "patterns": ["hola", "buenas", "qué tal"],
+      "responses": ["¡Hola! ¿Cómo estás?", "¡Buenas! ¿Qué contás?"]
+    },
+    {
+      "patterns": ["adiós", "chau", "hasta luego"],
+      "responses": ["¡Chau! ¡Que tengas un buen día!", "¡Hasta la próxima!"]
+    },
+    {
+      "patterns": ["cómo te llamás", "quién sos", "tu nombre"],
+      "responses": ["Me llamo BotPapu 😎", "Soy tu chatbot en WhatsApp."]
+    }
+  ]
+}
